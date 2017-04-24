@@ -1,7 +1,7 @@
 # Embedded Computer Systems - Namenski racunarski sistemi
-Embedded Computer Systems - Course in the 4th semester at the Faculty Of Technical Sciences
+### Embedded Computer Systems - Course in the 4th semester at the Faculty Of Technical Sciences
 
-## MIPS assembly
+#### MIPS assembly
 
 1. Load real numbers until the difference between the smallest and the largest number goes over 100. Write the smallest/largest pair on the console.
 
@@ -17,9 +17,9 @@ Embedded Computer Systems - Course in the 4th semester at the Faculty Of Technic
 
 7. Load a new sentence, then split it so that every new word is in a new line (Use functions).
 
-Namenski racunarski sistemi - Materijal za vezbe - 4. semestar na Fakultetu tehnickih nauka
+### Namenski racunarski sistemi - Materijal za vezbe - 4. semestar na Fakultetu tehnickih nauka
 
-## MIPS asembler
+#### MIPS asembler
 
 1. Učitavati realne brojeve sve dok razlika najmanjeg i najvećeg ne pređe 100. Ispisati najmanji i najveći broj.
 
